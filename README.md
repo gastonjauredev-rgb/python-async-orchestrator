@@ -34,16 +34,14 @@ ejercicio-01/
 
 ## Instalación y ejecución
 
-**1. Clonar el repositorio**
+### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/USUARIO/python-async-orchestrator.git
+git clone https://github.com/gastonjaureguib-stack/python-async-orchestrator.git
 cd python-async-orchestrator
 ```
 
-Reemplazar `USUARIO` por el usuario correspondiente de GitHub.
-
-**2. Ejecutar el programa**
+### 2. Ejecutar el programa
 
 ```bash
 python main.py
